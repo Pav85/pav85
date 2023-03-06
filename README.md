@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pav85&label=Profile%20views&color=0e75b6&style=flat" alt="pav85" /> </p>
 
-- 🔭 I’m currently working on [Team profile generator](https://github.com/Pav85/my-team-profile-generator)
+- 🔭 I’m currently working on [My Portfolio Page](https://github.com/Pav85/my-react-portfolio)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, React.js**
 
