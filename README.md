@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pav85&label=Profile%20views&color=0e75b6&style=flat" alt="pav85" /> </p>
 
-- 🔭 I’m currently working on [My 3D Portfolio Page](https://github.com/Pav85/My_3D_portfolio)
+- 🔭 I’m currently working on [AI picture generator](https://github.com/Pav85/my_AI_picture_page)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, React.js**
 
