@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **pawel.werbowy@gmail.com**
 
+- 🗒 Take a look at my [CV](https://docs.google.com/document/d/1rKs3eNcN4zS5bpCTp5ZHi5hUK53lxOjH/edit?usp=sharing&ouid=100228695758662225835&rtpof=true&sd=true) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pawel-werbowy-989ab2186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawel-werbowy-989ab2186" height="30" width="40" /></a>
