@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pawel.werbowy@gmail.com**
 
-- 🗒 Take a look at my [Resume](https://docs.google.com/document/d/1rKs3eNcN4zS5bpCTp5ZHi5hUK53lxOjH/edit?usp=sharing&ouid=100228695758662225835&rtpof=true&sd=true) 
+- 🗒 Take a look at my [CV](https://docs.google.com/document/d/1rKs3eNcN4zS5bpCTp5ZHi5hUK53lxOjH/edit?usp=sharing&ouid=100228695758662225835&rtpof=true&sd=true) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
