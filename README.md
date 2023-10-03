@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pawel</h1>
-<h3 align="center">A passionate front-end developer from London</h3>
+<h3 align="center">A front-end developer from London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pav85&label=Profile%20views&color=0e75b6&style=flat" alt="pav85" /> </p>
 
 - 🔭 I’m currently working on [face_recognition_application](https://github.com/Pav85/face-recognition-app)
 
-- 🌱 I’m currently learning **JavaScript, Node.js, React.js**
+- 🌱 I’m currently learning **JavaScript, Node.js, React.js, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pav85](https://github.com/Pav85)
 
